@@ -4,6 +4,6 @@
   },
   "dependencies": {
     "@types/node": "^20.2.0",
-    "node": "^20.2.0"
+    "http": "^0.0.1-security"
   }
 }

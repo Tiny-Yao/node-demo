@@ -1,4 +1,4 @@
-const http = require('node:http')
+const http = require('http')
 
 const hostname = '43.133.8.219'
 const port = 3000
