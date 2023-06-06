@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@types/node": "^20.2.0",
+    "node": "^20.2.0"
+  }
+}
